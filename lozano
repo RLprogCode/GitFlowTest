@@ -1,0 +1,15 @@
+1. What is GIT Flow?
+Roger Lozano: an alternative Git branching model that involves the use of feature branches and multiple primary branches
+
+2. What are the three main branches in GIT Flow?
+Roger Lozano: Main Branch, Developer Branch and Feature Branch
+
+3. In which branch are all finished features merged during the development phase?
+Roger Lozano:  Development Branch
+
+4. Which branch is considered the stable branch in GIT Flow?
+Roger Lozano: master branch 
+
+5. When is the "Hotfix" branch used in GIT Flow?
+Roger Lozano: fix critical issues in a production environment by working with the exact code deployed in production.
+As soon as the fix is complete, it should be merged into both main and develop (or the current release branch), 
